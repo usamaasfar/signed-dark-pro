@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: huacnlee/zed-extension-action@v2
         with:
-          extension-name: matte-black
+          extension-name: pastel-black
           # extension-path: extensions/${{ extension-name }}
           push-to: tahayvr/zed-extensions
         env:

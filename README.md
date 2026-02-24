@@ -1,12 +1,12 @@
-## Matte Black – Zed Theme
+## Pastel Black – Zed Theme
 
-A low-distraction dark theme.
+A Pastel-colored dark theme on a black background.
 
-**[Matte Black theme for Zed](https://zed.dev/extensions/matte-black)**
+**[Pastel Black theme for Zed](https://zed.dev/extensions/pastel-black)**
 
 ![screenshot](./assets/screenshot.png)
 
-### Matte Black for Other Platforms
+### Pastel Black for Other Platforms
 
 [matteblacktheme.com](https://matteblacktheme.com)
 
