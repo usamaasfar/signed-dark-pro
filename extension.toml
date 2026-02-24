@@ -1,7 +1,7 @@
-id = "matte-black"
-name = "Matte Black"
+id = "pascal-black"
+name = "Pascal Black"
 version = "1.2.0"
 schema_version = 1
 authors = ["Taha YVR <taha@noiserandom.com>"]
-description = "A low-distraction dark theme for Zed."
-repository = "https://github.com/tahayvr/matte-black-zed"
+description = "A Pascal-colored black theme for Zed."
+repository = "https://github.com/usamaasfar/pascal-black"
