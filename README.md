@@ -1,12 +1,12 @@
-## Pascal Black – Zed Theme
+## Pastel Black – Zed Theme
 
-A Pascal-colored dark theme on a black background.
+A Pastel-colored dark theme on a black background.
 
-**[Pascal Black theme for Zed](https://zed.dev/extensions/pascal-black)**
+**[Pastel Black theme for Zed](https://zed.dev/extensions/pastel-black)**
 
 ![screenshot](./assets/screenshot.png)
 
-### Pascal Black for Other Platforms
+### Pastel Black for Other Platforms
 
 [matteblacktheme.com](https://matteblacktheme.com)
 
