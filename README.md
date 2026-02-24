@@ -10,9 +10,9 @@ A Pascal-colored dark theme on a black background.
 
 [matteblacktheme.com](https://matteblacktheme.com)
 
-[Pascal Black on VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=TahaYVR.matteblack)
+[Matte Black on VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=TahaYVR.matteblack)
 
-[Pascal Black on Open VSX](https://open-vsx.org/extension/TahaYVR/matteblack)
+[Matte Black on Open VSX](https://open-vsx.org/extension/TahaYVR/matteblack)
 
 ### License
 
